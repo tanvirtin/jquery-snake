@@ -1,2 +1,12 @@
 # snake
-A simple snake game made with JavaScript, JQuery library, CSS, HTML and the Python Flask Framework as backend.
+A simple snake game made with JavaScript, JQuery library, CSS, HTML and Python Flask Framework as backend.
+
+Make sure you have Python 3 installed and pip as well. If so in the terminal pip install flask and download the code. 
+To run the code open up the terminal and type in "python app.py", open up any browser of your choice and goto "localhost:2406" to play the
+snake game. 
+
+The game is far from perfect and can be improved a whole lot, I wanted to limit myself and test my JavasScript, HTML and CSS abilities by 
+using only one library which is JQuery.
+
+The web application in general is not very efficient as it uses a lot of recursion, as every move the snake moves is chains of recursive
+functions.
