@@ -9,4 +9,4 @@ The game is far from perfect and can be improved a whole lot, I wanted to limit 
 using only one library which is JQuery.
 
 The web application in general is not very efficient as it uses a lot of recursion, as every move the snake moves is chains of recursive
-functions.
+functions. The snake, parts of it's body, the food and even the body are all HTML div tags.
