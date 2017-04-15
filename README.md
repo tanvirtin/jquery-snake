@@ -1,4 +1,4 @@
-# snake
+# Classic Game of Snake!
 A simple snake game made with JavaScript, JQuery library, CSS, HTML and Python Flask framework as backend.
 
 Make sure you have Python 3 installed and pip as well. If so in the terminal pip install flask and download the code. 
