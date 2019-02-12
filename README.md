@@ -8,7 +8,7 @@ python app.py
 ```
 open up any browser of your choice and goto:
 ```
-localhost:2406 to play thes nake game. 
+localhost:2406 to play the snake game. 
 ```
 The game is far from perfect and can be improved a whole lot, I wanted to limit myself and test my JavasScript, HTML and CSS abilities by 
 using only one library which is JQuery.
